@@ -1,0 +1,8 @@
+c:\users\office\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+c:\users\office\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+c:\users\office\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+c:\users\office\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+c:\users\office\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+c:\users\office\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\bin\Debug\Newtonsoft.Json.dll
+c:\users\office\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\bin\Debug\Newtonsoft.Json.xml
+c:\users\office\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\obj\Debug\Flicker_Data.csprojResolveAssemblyReference.cache
