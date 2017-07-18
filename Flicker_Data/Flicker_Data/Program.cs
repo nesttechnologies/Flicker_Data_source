@@ -31,7 +31,7 @@ namespace Flicker_Data
                  "?method=flickr.photos.search" +
                  "&license={0}" +
                  "&api_key={1}" +
-                 "&text=all" +
+                // "&text=all" +
                  "&lat={2}" +
                  "&lon={3}" +
                  "&radius={4}" +
@@ -51,14 +51,14 @@ namespace Flicker_Data
                 var response = webClient.DownloadString(baseurl);
                 Console.WriteLine(response);
                 
-                var a = webClient.ResponseHeaders;
+               /* var a = webClient.ResponseHeaders;
 
                 string json = response;
                 var capacity = JObject.Parse(json)["a"].Select(v => (int)v["a"]).ToList();
                 for (int i = 0; i < capacity.Count; i++)
                 {
                     Console.WriteLine(capacity[i]);
-                }
+                }*/
                 Console.ReadKey();
             }
         }
